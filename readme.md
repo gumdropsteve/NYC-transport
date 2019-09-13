@@ -3,7 +3,7 @@
 This is a combined repository of all publicly available New York City transit 
 datasets. 
 
-- Taxi and Limousine Commission (TLC) Taxi trip Data
+- Taxi and Limousine Commission (TLC) Taxi trip Data (2009-2019)
 - FOIA requested Uber trip data for portions of 2013-2015
 - Subway turnstile data from the Metropolitan Transit Authority (MTA)
 - Citibike system data
